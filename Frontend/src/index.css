@@ -14,3 +14,9 @@
 ::-webkit-scrollbar{
     @apply hidden 
 }
+
+@media(max-eidth:740){
+    .active p {
+        @apply text-white bg-primary
+    }
+}
